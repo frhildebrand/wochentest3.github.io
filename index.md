@@ -14,3 +14,5 @@ Pippi ist ein selbstbewusstes neunjähriges Mädchen mit Sommersprossen, dessen 
 * Es entstand auch die erste Pippi-Zeichnung, angefertigt von der Autorin selbst. Die Illustrationen schuf Ingrid Vang Nyman.
 * Das erste deutsche Pippi-Langstrumpf-Buch wurde später von Walter Scharnweber illustriert.
 * Das Manuskript des ursprünglichen Textes erschien 2007 anlässlich des hundertsten Geburtstages der Autorin unter dem Titel Ur-Pippi.
+
+> Ich hab ein Haus, ein kunterbuntes Haus, ein Äffchen und ein Pferd
