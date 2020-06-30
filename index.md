@@ -15,4 +15,4 @@ Pippi ist ein selbstbewusstes neunjähriges Mädchen mit Sommersprossen, dessen 
 * Das erste deutsche Pippi-Langstrumpf-Buch wurde später von Walter Scharnweber illustriert.
 * Das Manuskript des ursprünglichen Textes erschien 2007 anlässlich des hundertsten Geburtstages der Autorin unter dem Titel Ur-Pippi.
 
-> Ich hab ein Haus, ein kunterbuntes Haus, ein Äffchen und ein Pferd
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Pippi_Langkous%2C_Zweeds_kinderboek-_en_TV-figuur%2C_in_de_oude_RAI_te_Amsterdam%2C_Bestanddeelnr_925-5512.jpg" />
